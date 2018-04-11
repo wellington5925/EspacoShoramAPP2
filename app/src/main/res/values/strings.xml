@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EspacoShoramAPP2</string>
+    <string name="selecione_uma_tecnica">Selecione uma Técnica:</string>
+    <string name="selecione_um_horario">Selecione um Horário:</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="area_de_usuario">área de usuario</string>
+    <string name="agendamento">Agendamento</string>
+    <string name="contato">Contato</string>
+    <string name="area_do_usuario">Área do Usuário</string>
+    <string name="t_cnicas">Técnicas</string>
+</resources>
